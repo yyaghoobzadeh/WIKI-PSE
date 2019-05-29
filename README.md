@@ -6,7 +6,7 @@ We will publish the dataset for the following paper in this repository.
 
 
 ```
-@inproceedings{yaghoobzadeh2015,
+@inproceedings{yaghoobzadeh2019probing,
   author    = {Yadollah Yaghoobzadeh, Katharina Kann, Eneko Agirre, Timothy J. Hazen and Hinrich Sch{\"{u}}tze},
   title     = {Probing for Semantic Classes: Diagnosing the Meaning Content of Word Embeddings},
   booktitle = {Proceedings of ACL},
