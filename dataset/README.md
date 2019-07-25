@@ -1,8 +1,12 @@
 ### The (word, semantic-classes) dataset
 In this directory, you can find train and test splits of the (word, semantic-classes) dataset.
-Each line in [train.tsv](https://github.com/yyaghoobzadeh/WIKI-PSE/blob/master/dataset/train.tsv) or [test.tsv](https://github.com/yyaghoobzadeh/WIKI-PSE/blob/master/dataset/test.tsv) has the following format:
 
+Each line in [train.tsv](https://github.com/yyaghoobzadeh/WIKI-PSE/blob/master/dataset/train.tsv) 
+or [test.tsv](https://github.com/yyaghoobzadeh/WIKI-PSE/blob/master/dataset/test.tsv) has the following format:
+
+```
 word semantic-class1=freq1 <SPACe> semantic-class2=freq2 <SPACE> ...
+```
 
 For example:
 
