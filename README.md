@@ -13,10 +13,10 @@ This repository contains the datasets we used in the following paper:
 
 
 ### Data
-For looking only into the (word, semantic-classes) datasets, please look into this directory:
-[dataset](https://github.com/yyaghoobzadeh/WIKI-PSE/tree/master/dataset).
+(For only the (word, semantic-classes) datasets, please visit this directory:
+[dataset](https://github.com/yyaghoobzadeh/WIKI-PSE/tree/master/dataset).)
 
-All WIKI-PSE files, includingincluding the corpus and trained embeddings can be dowloaded from this link:
+All WIKI-PSE files, including the corpus and trained embeddings can be dowloaded from this link:
 
 [data.zip](http://cistern.cis.lmu.de/WIKI-PSE/data.zip)
 
