@@ -7,7 +7,7 @@ word semantic-class1=freq1 <SPACe> semantic-class2=freq2 <SPACE> ...
 For example:
 
 ```
-@apple@	-organization=1652 -food=117 -art=16 -living_thing=14 -product=6 -person=3""
+@apple@	-organization=1652 -food=117 -art=16 -living_thing=14 -product=6 -person=3
 ```
 
 Each frequency represents the number of occurrences of the word in the corpus.
