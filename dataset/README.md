@@ -16,5 +16,5 @@ For example:
 
 Each frequency represents the number of occurrences of the word in the corpus.
 
-Also, the list of 34 semantic-classes are in [semantic-class.txt] (https://github.com/yyaghoobzadeh/WIKI-PSE/blob/master/dataset/semantic_classes.txt).
+Also, the list of 34 semantic-classes are in [semantic-class.txt](https://github.com/yyaghoobzadeh/WIKI-PSE/blob/master/dataset/semantic_classes.txt).
 
