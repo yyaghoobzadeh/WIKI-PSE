@@ -1,8 +1,11 @@
 # WIKI-PSE
-A Wikipedia-based resource for Probing Semantics in word Embeddings
+## A Wikipedia-based resource for Probing Semantics in word Embeddings
 
 
-We will publish the dataset for the following paper in this repository.
+### Data
+You can download all data, including trained embeddings from this link:
+[data.zip](http://cistern.cis.lmu.de/WIKI-PSE/data.zip)
+
 
 
 ```
