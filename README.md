@@ -3,8 +3,12 @@
 
 
 ### Data
-You can download all data, including trained embeddings from this link:
+You can download all data, including the corpus and trained embeddings from this link:
+
 [data.zip](http://cistern.cis.lmu.de/WIKI-PSE/data.zip)
+
+For looking only into the (word, semantic-classes) datasets, please go to this directory:
+[dataset](https://github.com/yyaghoobzadeh/WIKI-PSE/tree/master/dataset)
 
 
 
