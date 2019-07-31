@@ -7,6 +7,7 @@ This repository contains the datasets we used in the following paper:
   title     = {Probing for Semantic Classes: Diagnosing the Meaning Content of Word Embeddings},
   author    = {Yadollah Yaghoobzadeh, Katharina Kann, Eneko Agirre, Timothy J. Hazen and Hinrich Sch{\"{u}}tze},
   booktitle = {Proceedings of ACL},
+  url       = {https://www.aclweb.org/anthology/P19-1574}
 }
 ```
 
